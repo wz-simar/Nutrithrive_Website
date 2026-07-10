@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["YB5RW5JH8M.com.wellnessz.psfitpro"],
+        "appIDs": ["YB5RW5JH8M.com.wellnessz.nutrithrive"],
         "paths": ["/app/*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["YB5RW5JH8M.com.wellnessz.psfitpro"]
+    "apps": ["YB5RW5JH8M.com.wellnessz.nutrithrive"]
   }
 }

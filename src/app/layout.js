@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "EZ Diet Plan",
-  description: "EZ Diet Plan",
+  title: "Nutrithrive: Smart Wellness",
+  description: "Nutrithrive: Smart Wellness",
 };
 
 export default function RootLayout({ children }) {

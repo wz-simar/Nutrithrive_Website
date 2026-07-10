@@ -1,9 +1,9 @@
 import { NextResponse } from 'next/server';
 
 const PLAY_STORE_URL =
-  'https://play.google.com/store/apps/details?id=com.wellnessz.ezdiet';
+  'https://play.google.com/store/apps/details?id=com.wellnessz.nutrithrive&hl=en_IN';
 const APP_STORE_URL =
-  'https://apps.apple.com/id/app/ez-diet-plan/id6773228312';
+  'https://apps.apple.com/in/app/nutrithrive-smart-wellness/id6768994291';
 
 const IOS_REGEX = /iPhone|iPad|iPod/i;
 const ANDROID_REGEX = /Android/i;
